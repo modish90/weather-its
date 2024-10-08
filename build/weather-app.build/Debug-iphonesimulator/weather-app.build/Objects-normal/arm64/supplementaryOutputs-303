@@ -1,0 +1,24 @@
+"/Users/rakesh/Desktop/weather-app/weather-app/DataLayer/API/Entities/Forecastday.swift":
+  const-values: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/Forecastday.swiftconstvalues"
+  swift-dependencies: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/Forecastday.swiftdeps"
+  object: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/Forecastday.o"
+  dependencies: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/Forecastday.d"
+  diagnostics: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/Forecastday.dia"
+"/Users/rakesh/Desktop/weather-app/weather-app/DataLayer/API/Entities/NetworkHour.swift":
+  diagnostics: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/NetworkHour.dia"
+  dependencies: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/NetworkHour.d"
+  object: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/NetworkHour.o"
+  const-values: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/NetworkHour.swiftconstvalues"
+  swift-dependencies: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/NetworkHour.swiftdeps"
+"/Users/rakesh/Desktop/weather-app/weather-app/DataLayer/API/Entities/Forecast.swift":
+  dependencies: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/Forecast.d"
+  const-values: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/Forecast.swiftconstvalues"
+  swift-dependencies: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/Forecast.swiftdeps"
+  diagnostics: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/Forecast.dia"
+  object: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/Forecast.o"
+"/Users/rakesh/Desktop/weather-app/weather-app/DataLayer/API/Entities/Location.swift":
+  dependencies: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/Location.d"
+  object: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/Location.o"
+  const-values: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/Location.swiftconstvalues"
+  diagnostics: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/Location.dia"
+  swift-dependencies: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/Location.swiftdeps"

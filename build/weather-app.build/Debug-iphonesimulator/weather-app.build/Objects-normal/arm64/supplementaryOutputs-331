@@ -1,0 +1,18 @@
+"/Users/rakesh/Desktop/weather-app/weather-app/DomainLayer/Entities/WeatherError.swift":
+  diagnostics: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/WeatherError.dia"
+  object: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/WeatherError.o"
+  dependencies: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/WeatherError.d"
+  const-values: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/WeatherError.swiftconstvalues"
+  swift-dependencies: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/WeatherError.swiftdeps"
+"/Users/rakesh/Desktop/weather-app/weather-app/DomainLayer/UseCases/GetWeatherForecastUseCase.swift":
+  dependencies: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/GetWeatherForecastUseCase.d"
+  swift-dependencies: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/GetWeatherForecastUseCase.swiftdeps"
+  object: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/GetWeatherForecastUseCase.o"
+  diagnostics: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/GetWeatherForecastUseCase.dia"
+  const-values: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/GetWeatherForecastUseCase.swiftconstvalues"
+"/Users/rakesh/Desktop/weather-app/weather-app/DomainLayer/Repository/WeatherForecastRepository.swift":
+  dependencies: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/WeatherForecastRepository.d"
+  diagnostics: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/WeatherForecastRepository.dia"
+  swift-dependencies: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/WeatherForecastRepository.swiftdeps"
+  const-values: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/WeatherForecastRepository.swiftconstvalues"
+  object: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/WeatherForecastRepository.o"

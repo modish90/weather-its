@@ -1,0 +1,18 @@
+"/Users/rakesh/Desktop/weather-app/weather-app/Scenes/Components/LoadingView.swift":
+  object: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/LoadingView.o"
+  swift-dependencies: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/LoadingView.swiftdeps"
+  dependencies: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/LoadingView.d"
+  const-values: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/LoadingView.swiftconstvalues"
+  diagnostics: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/LoadingView.dia"
+"/Users/rakesh/Desktop/weather-app/weather-app/Scenes/Components/AlertMessage.swift":
+  dependencies: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/AlertMessage.d"
+  diagnostics: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/AlertMessage.dia"
+  object: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/AlertMessage.o"
+  const-values: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/AlertMessage.swiftconstvalues"
+  swift-dependencies: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/AlertMessage.swiftdeps"
+"/Users/rakesh/Desktop/weather-app/weather-app/Scenes/Components/ActivityIndicator.swift":
+  diagnostics: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/ActivityIndicator.dia"
+  object: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/ActivityIndicator.o"
+  dependencies: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/ActivityIndicator.d"
+  const-values: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/ActivityIndicator.swiftconstvalues"
+  swift-dependencies: "/Users/rakesh/Desktop/weather-app/build/weather-app.build/Debug-iphonesimulator/weather-app.build/Objects-normal/arm64/ActivityIndicator.swiftdeps"

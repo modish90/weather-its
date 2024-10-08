@@ -1,0 +1,16 @@
+{
+  "source": "/Users/rakesh/Desktop/weather-app/weather-app/Scenes/Weather/WeatherRow.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Humidity: %lld%%",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 14
+        }
+      }
+    ]
+  },
+  "version": 1
+}

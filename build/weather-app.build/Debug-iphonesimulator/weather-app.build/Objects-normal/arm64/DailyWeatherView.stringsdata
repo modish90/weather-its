@@ -1,0 +1,24 @@
+{
+  "source": "/Users/rakesh/Desktop/weather-app/weather-app/Scenes/Weather/DailyWeatherView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Weather Forecast",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "Close",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 43
+        }
+      }
+    ]
+  },
+  "version": 1
+}

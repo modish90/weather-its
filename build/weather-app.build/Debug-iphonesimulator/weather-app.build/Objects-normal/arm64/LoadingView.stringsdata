@@ -1,0 +1,16 @@
+{
+  "source": "/Users/rakesh/Desktop/weather-app/weather-app/Scenes/Components/LoadingView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 48
+        }
+      }
+    ]
+  },
+  "version": 1
+}

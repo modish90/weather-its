@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'weather-app' in project 'weather-app' (no dependencies)
